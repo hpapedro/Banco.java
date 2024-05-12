@@ -1,0 +1,8 @@
+ID: 1 | Número da Conta: 1 | Tipo de Operação: Saque | Saldo Antes: 100.00 | Saldo Depois: 50.00 | Data: 10/05/2024 15:47:10
+ID: 1 | Número da Conta: 1 | Tipo de Operação: Depósito | Saldo Antes: 50.00 | Saldo Depois: 100.00 | Data: 10/05/2024 15:57:52
+ID: 12345 | Número da Conta: 12345 | Tipo de Operação: Saque | Saldo Antes: 1179000.00 | Saldo Depois: 1178688.00 | Data: 10/05/2024 17:46:35
+ID: 12345 | Número da Conta: 12345 | Tipo de Operação: Saque | Valor: 1178688.00 | Saldo Antes: 1178338.00 | Saldo Depois: 1178338.00 | Data: 10/05/2024 17:49:05
+ID: 12345 | Número da Conta: 12345 | Tipo de Operação: Saque | Valor: 1178338.00 | Saldo Antes: 1177988.00 | Saldo Depois: 1177988.00 | Data: 10/05/2024 17:50:40
+ID: 12345 | Número da Conta: 12345 | Tipo de Operação: Saque | Saldo Antes: 1177988.00 | Saldo Depois: 1177638.00 | Data: 10/05/2024 17:51:32
+ID: 12345 | Número da Conta: 12345 | Tipo de Operação: Saque | Saldo Antes: 1177638.00 | Saldo Depois: 1177288.00 | Data: 10/05/2024 20:09:09
+ID: 12345 | Número da Conta: 12345 | Tipo de Operação: Saque | Saldo Antes: 1177288.00 | Saldo Depois: 1176938.00 | Data: 10/05/2024 20:13:15
